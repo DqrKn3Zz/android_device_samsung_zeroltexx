@@ -34,6 +34,7 @@ PRODUCT_DEVICE := zerolte
 PRODUCT_BRAND := Samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_MODEL := SM-G925F
+BUILD_FINGERPRINT := "samsung/zeroltexx/zerolte:7.0/NRD90M/G925FXXU6ERK2:user/release-keys"
 
 # Include overriding makefile from common device tree
 include device/samsung/zero-common/zero-common-override.mk
